@@ -18,7 +18,7 @@ avrdude -v -patmega328p -carduino -PCOM11 -b115200 -Uflash:w:secure_sketch_v2025
 
 ## 2. Attack Tree
 
-<img width="1445" height="1398" alt="image" src="https://github.com/user-attachments/assets/64ed1ed9-916c-4bd9-88c8-9b0f9e99c335" />
+<img width="1445" height="1398" alt="mermaid-diagram-2026-10-22-235223" src="https://github.com/user-attachments/assets/2e8dd34c-d0ae-40cd-a01a-a6f1a663321d" />
 
 
 ## 3. Accès naïf
