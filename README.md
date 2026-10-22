@@ -177,3 +177,4 @@ Le vecteur complet est le suivant :
 ```
 CVSS:4.0/AV:P/AC:H/AT:N/PR:N/UI:N/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N
 ```
+Un des point d'amélioration principal serait de changer l'état des **Attack Requirements : Present**. Par exemple, imposer un certain temps entre chaque tentative et ne donc pas pouvoir faire de teste en boucle.
