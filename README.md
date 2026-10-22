@@ -18,7 +18,8 @@ avrdude -v -patmega328p -carduino -PCOM11 -b115200 -Uflash:w:secure_sketch_v2025
 
 ## 2. Attack Tree
 
-*(diagramme à insérer)*
+<img width="1445" height="1398" alt="image" src="https://github.com/user-attachments/assets/64ed1ed9-916c-4bd9-88c8-9b0f9e99c335" />
+
 
 ## 3. Accès naïf
 
