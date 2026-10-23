@@ -43,7 +43,7 @@ On peut tester les différentes pins pour trouver RX en essayant de rentrer un m
 
 ## 5. Préparation de l'attaque
 
-**Power analysis to Timing analysis using ChipWhisperer.**
+L'attaque réalisée est une Power Analysis, signifiant que nous pourrons déterminer le mot de passe via la consommation de puissance
 
 Afin de pouvoir attaquer l'Arduino via le ChipWhisperer, il fallait sortir l'ATmega de son socket et le connecter tel que le montre l'image ci-dessous :
 
