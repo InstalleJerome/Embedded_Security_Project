@@ -4,7 +4,7 @@ Project for the embedded security course at ECAM. The goal is to find the passwo
 
 
 
-# Power Analysis sur Arduino — Bypass d'authentification
+# Power Analysis sur Arduino — Vulnerability Exploitation
 
 ## 1. Préparation de la cible
 
